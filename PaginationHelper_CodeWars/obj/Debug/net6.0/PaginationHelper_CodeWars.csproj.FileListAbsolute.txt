@@ -1,0 +1,15 @@
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\bin\Debug\net6.0\PaginationHelper_CodeWars.exe
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\bin\Debug\net6.0\PaginationHelper_CodeWars.deps.json
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\bin\Debug\net6.0\PaginationHelper_CodeWars.runtimeconfig.json
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\bin\Debug\net6.0\PaginationHelper_CodeWars.dll
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\bin\Debug\net6.0\PaginationHelper_CodeWars.pdb
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.csproj.AssemblyReference.cache
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.AssemblyInfoInputs.cache
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.AssemblyInfo.cs
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.dll
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\refint\PaginationHelper_CodeWars.dll
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.pdb
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\PaginationHelper_CodeWars.genruntimeconfig.cache
+C:\Users\natel\Desktop\Repos\Pagination\PaginationHelper_CodeWars\PaginationHelper_CodeWars\obj\Debug\net6.0\ref\PaginationHelper_CodeWars.dll

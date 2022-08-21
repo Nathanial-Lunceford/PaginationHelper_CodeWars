@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natel\\Desktop\\Repos\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars.csproj",
+      "projectUniqueName": "C:\\Users\\natel\\Desktop\\Repos\\Pagination\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars.csproj",
       "projectName": "PaginationHelper_CodeWars",
-      "projectPath": "C:\\Users\\natel\\Desktop\\Repos\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars.csproj",
+      "projectPath": "C:\\Users\\natel\\Desktop\\Repos\\Pagination\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars.csproj",
       "packagesPath": "C:\\Users\\natel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natel\\Desktop\\Repos\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\obj\\",
+      "outputPath": "C:\\Users\\natel\\Desktop\\Repos\\Pagination\\PaginationHelper_CodeWars\\PaginationHelper_CodeWars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natel\\AppData\\Roaming\\NuGet\\NuGet.Config",

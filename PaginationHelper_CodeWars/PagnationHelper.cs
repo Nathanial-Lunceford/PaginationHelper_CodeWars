@@ -8,11 +8,11 @@ namespace PaginationHelper_CodeWars
 {
     public  class PagnationHelper
     {
-        IList<char> coll = new List<char>();
+        IList<int> coll = new List<int>();
         int PerPage = 0;
 
 
-        public PagnationHelper(IList<char> collection, int itemsPerPage)
+        public PagnationHelper(IList<int> collection, int itemsPerPage)
         {
             coll = collection;
             PerPage = itemsPerPage;
@@ -41,19 +41,11 @@ namespace PaginationHelper_CodeWars
             }
         }
 
-        public bool IsLastPageNotRegular
-        {
-            get
-            {
-                return (ItemCount % PerPage != 0);
-            }
-        }
-
         public int PageCount
         {
             get
             {
-                decimal pages = ItemCount / PerPage;
+                decimal pages = (decimal) ItemCount / (decimal) PerPage;
 
                 if(pages % 1 != 0)
                 {
@@ -68,11 +60,11 @@ namespace PaginationHelper_CodeWars
 
         public int PageItemCount(int pageIndex)
         {
-            if(pageIndex < 0 || pageIndex >= coll.Count())
+            if(pageIndex < 0 || pageIndex >= PageCount)
             {
                 return -1;
             }
-            else if (pageIndex == coll.Count() - 1)
+            else if (pageIndex == PageCount - 1)
             { // if pageindex is last page, need to return items on last page
                 return ItemsOnLastPage;
             }
@@ -85,15 +77,18 @@ namespace PaginationHelper_CodeWars
         public int PageIndex(int itemIndex)
         {
             // divide itemIndex by PerPage, use math.floor to round to nearest lowest int
-            decimal page = itemIndex / PerPage;
+            decimal page = (decimal) itemIndex / (decimal) PerPage;
 
             int index = (int) Math.Floor(page);
 
-            // check to see if that nearest lowest int is in the index
-
-            return PageItemCount(index);
+            if(index < 0 || index >= PageCount)
+            {
+                return -1;
+            }
+            else
+            {
+                return index;
+            }
         }
-
-
     }
 }
