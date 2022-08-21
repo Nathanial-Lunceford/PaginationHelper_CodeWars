@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationHelper_CodeWars", "PaginationHelper_CodeWars\PaginationHelper_CodeWars.csproj", "{6E705349-77FF-4F95-B879-4FED3A98C509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E705349-77FF-4F95-B879-4FED3A98C509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E705349-77FF-4F95-B879-4FED3A98C509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E705349-77FF-4F95-B879-4FED3A98C509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E705349-77FF-4F95-B879-4FED3A98C509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6497A6-6550-4A79-9B16-BA5B7B8DF27A}
+	EndGlobalSection
+EndGlobal
